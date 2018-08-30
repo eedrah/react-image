@@ -48,7 +48,7 @@
   ],
   "jsnext:main": "es/index",
   "module": "es/index",
-  "main": "cjs/index.js",
+  "main": "src/index.js",
   "author": "mbrevda@gmail.com",
   "license": "MIT",
   "bugs": {

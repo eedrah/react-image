@@ -7,7 +7,6 @@ npm-debug.log
 disc/
 coverage/
 umd/
-cjs/
 es/
 package-lock.json
 dist/
